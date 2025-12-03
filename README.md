@@ -62,8 +62,9 @@ Your_Project_Name/
 ├── dataset/
 ├── report.pdf
 ├── presentation.pdf
-```
+
 Place this folder anywhere on your computer.
+```
 ---
 
 ## ✅ 2. Open Terminal / PowerShell Inside the Repository Folder
