@@ -65,7 +65,7 @@ Your_Project_Name/
 ├── presentation.pdf
 ```
 ---
-##### Place this folder anywhere on your computer.
+#### Place this folder anywhere on your computer.
 ---
 
 ## ✅ 2. Open Terminal / PowerShell Inside the Repository Folder
