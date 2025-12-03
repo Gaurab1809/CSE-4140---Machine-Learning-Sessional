@@ -41,8 +41,8 @@ This repository serves as an academic record and a reference for anyone reviewin
 
 ---
 
-## 📄 License
-This repository is intended for academic and learning use.  
+## 📄 License 
+#### This repository is intended for academic and learning use.  
 ---
 ---
 
@@ -55,6 +55,7 @@ Anyone from the course can upload their project, reports, or files to this repos
 
 ## ✅ 1. Create Your Project Folder
 Organize your project inside a single folder.  
+Place this folder anywhere on your computer.
 Example:
 ```text
 Your_Project_Name/
@@ -62,8 +63,6 @@ Your_Project_Name/
 ├── dataset/
 ├── report.pdf
 ├── presentation.pdf
-
-Place this folder anywhere on your computer.
 ```
 ---
 
