@@ -55,7 +55,7 @@ Anyone from the course can upload their project, reports, or files to this repos
 
 ## ✅ 1. Create Your Project Folder
 Organize your project inside a single folder.  
-Place this folder anywhere on your computer.
+
 Example:
 ```text
 Your_Project_Name/
@@ -64,6 +64,8 @@ Your_Project_Name/
 ├── report.pdf
 ├── presentation.pdf
 ```
+---
+##### Place this folder anywhere on your computer.
 ---
 
 ## ✅ 2. Open Terminal / PowerShell Inside the Repository Folder
